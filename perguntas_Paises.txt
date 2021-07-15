@@ -1,0 +1,31 @@
+60 pergunta1 60
+50 pergunta2 50
+70 Testanto a pergunta com espacos entre as palavras
+40 pergunta4 40
+56 pergunta5 56
+66 pergunta6 66
+80 pergunta7 80
+30 pergunta8 30
+46 pergunta9 46
+54 pergunta10 54
+58 pergunta11 58
+64 pergunta12 64
+68 pergunta13 68
+76 pergunta14 76
+90 Voce gosta de flores?
+29 CACHOEIRA
+31 CORURIPE
+45 DENVER
+47 DIVINOPOLIS
+53 GARULHOS
+55 GUAIAPE
+57 JACUIPE
+59 JUCURUCU
+63 CASTRO ALVES
+65 CAMACARI
+67 ILHEUS
+69 IRARA
+75 AMELIA RODRIGUES
+77 ALAGOINHAS
+89 FEIRA DE SANTANA
+91 FERNANDO PESSOA
